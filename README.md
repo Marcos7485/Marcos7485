@@ -1,7 +1,7 @@
 
 <h2>Social Networks</h2>
 
-[1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]
+[![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4]
 
 [2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
 [3.2]: https://s4.uupload.ir/files/instagram_6djz.png
