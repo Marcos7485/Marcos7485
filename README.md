@@ -1,4 +1,3 @@
-<h3 align="center">Google DSC Lead.</h3>
 
 - 🔭 I’m currently working on **NodeJS**
 
