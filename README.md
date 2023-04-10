@@ -19,8 +19,8 @@
 - 📫 How to reach me **marcosles7485@gmail.com**
 
 <div>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marcos7485&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marcos7485&layout=compact&langs_count=16&theme=cobalt"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marcos7485&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marcos7485&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
