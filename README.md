@@ -12,6 +12,9 @@
 [4]: https://telegram.me/Marcos7485
 
 <hr>
+
+- Software Engineer Student.
+
 - 🔭 I’m currently working on **NodeJS**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
