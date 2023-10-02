@@ -52,7 +52,7 @@
   </a>
   <!-- Icono de Laravel -->
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="[URL_DEL_ICONO_DE_LARAVEL](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)https://www.vectorlogo.zone/logos/git-scm/laravel-scm-icon.svg" alt="laravel" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" alt="laravel" width="40" height="40"/>
   </a>
 </p>
 
