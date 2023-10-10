@@ -15,7 +15,7 @@
 
 - Software Engineer Student.
 
-- 🔭 I’m currently working on **NodeJS**
+- 🔭 I’m currently working on **Laravel**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
