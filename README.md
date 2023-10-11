@@ -17,7 +17,7 @@
 
 - 🔭 I’m currently working on **Laravel**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+- 🌱 I’m currently specializing in **Full Stack Web Development**
 
 <div>
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marcos7485&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
