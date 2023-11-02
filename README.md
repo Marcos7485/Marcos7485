@@ -7,7 +7,6 @@
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
 [2]: https://www.linkedin.com/in/marcos-gonzalez-72ba84257/
-[3]: https://instagram.com/marcos_dapatagonia?igshid=MGNiNDI5ZTU=
 [4]: https://telegram.me/Marcos7485
 
 <hr>
