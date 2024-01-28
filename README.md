@@ -54,7 +54,7 @@
   </a>
       <!-- Icono de React -->
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React.svg" alt="react" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
   </a>
 </p>
 
