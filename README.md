@@ -52,9 +52,5 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" alt="laravel" width="40" height="40"/>
   </a>
-      <!-- Icono de React -->
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
 </p>
 
