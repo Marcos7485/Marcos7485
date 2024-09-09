@@ -13,7 +13,7 @@
 
 - Software Engineer Student.
 
-- 🔭 I’m currently working on **Laravel**
+- 🔭 I’m currently working on **Dragon Rojo Software**
 
 - 🌱 I’m currently specializing in **Full Stack Web Development**
 
