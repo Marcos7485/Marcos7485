@@ -21,7 +21,6 @@
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marcos7485&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marcos7485&layout=compact&langs_count=16&theme=highcontrast"/>
 </div>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -52,5 +51,22 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Laravel-Dark.svg" alt="laravel" width="40" height="40"/>
   </a>
+  <!-- Icono de Vue.js -->
+  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
+  </a>
+  <!-- Icono de Inertia.js -->
+  <a href="https://inertiajs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inertiajs/inertiajs-original.svg" alt="inertiajs" width="40" height="40"/>
+  </a>
+  <!-- Icono de Vite -->
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
+  </a>
+  <!-- Icono de TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
 </p>
+
 
