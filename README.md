@@ -16,12 +16,16 @@ www.dragonrojosoftware.com
 <div>
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marcos7485&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marcos7485&layout=compact&langs_count=16&theme=highcontrast"/>
-</div><h3 align="left">Languages and Tools:</h3>
+</div>
+
+
+<h3 align="left">Languages and Tools:</h3>
 <!-- Lenguajes de Programación -->
+<div style='display=flex;'>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-
+</div>
 <h3 align="left">Desarrollo Frontend:</h3>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
