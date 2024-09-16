@@ -8,11 +8,6 @@
 
 
 <hr>
-Languages:<br>
-Español<br>
-Portuguese<br>
-English
-<br>
 My own page:
 www.dragonrojosoftware.com
 <hr>
