@@ -10,13 +10,6 @@
 
 <hr>
 
-                        Soy Marcos Gonzalez,
-                        soy un estudiante argentino de Ingeniería
-                        en Software en Brasil. Soy un apasionado de la tecnología y la
-                        programación
-                        de manera autodidacta, siempre en constante aprendizaje y desarrollo.<br><br>
-                        Me dedico a adaptar las nuevas tecnologías para ofrecer un código de alta calidad,
-                        priorizando las necesidades de mis clientes y asegurando su satisfacción.
 
 <div>
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marcos7485&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
