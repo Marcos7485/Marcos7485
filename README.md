@@ -1,4 +1,3 @@
-
 <h2>Social Networks</h2>
 
 [![LinkedIn][2.2]][2] [![Telegram][4.2]][4]
