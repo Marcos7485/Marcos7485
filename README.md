@@ -3,7 +3,6 @@
 [![LinkedIn][2.2]][2] [![Telegram][4.2]][4]
 
 [2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
-[4.2]: https://s4.uupload.ir/files/telegram_q47u.png
 
 [2]: https://www.linkedin.com/in/marcos-gonzalez-72ba84257/
 
