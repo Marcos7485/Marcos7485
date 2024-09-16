@@ -8,9 +8,9 @@
 
 
 <hr>
-Languages:
-Español
-Portuguese
+Languages:<br>
+Español<br>
+Portuguese<br>
 English
 
 My own page:
