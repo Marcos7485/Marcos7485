@@ -1,6 +1,6 @@
 <h2>Social Networks</h2>
 
-[![LinkedIn][2.2]][2] [![Telegram][4.2]][4]
+[![LinkedIn][2.2]][2]
 
 [2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
 
