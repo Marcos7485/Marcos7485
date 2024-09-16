@@ -1,4 +1,4 @@
-<h2>Social Networks</h2>
+<h2>Linkedin</h2>
 
 [![LinkedIn][2.2]][2]
 
