@@ -2,6 +2,7 @@
 <h3 align="center">Full-Stack Developer | Backend-Focused · PHP · Laravel · Vue.js · TypeScript</h3>
 
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"/>
   <a href="https://www.dragonrojosoftware.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" width="30" height="30"/>
   </a>
