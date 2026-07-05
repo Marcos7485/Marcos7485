@@ -2,10 +2,6 @@
 <h3 align="center">Full-Stack Developer | Backend-Focused · PHP · Laravel · Vue.js · TypeScript</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/marcos-gonzalez-72ba84257/" target="_blank">
-    <img src="https://s4.uupload.ir/files/linkedin_amwn.png" alt="LinkedIn" width="30" height="30"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.dragonrojosoftware.com" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Website" width="30" height="30"/>
   </a>
