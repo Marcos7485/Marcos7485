@@ -26,6 +26,7 @@ I'm a **Backend-focused developer** with over **5 years of experience** building
 - 👨‍💻 I also work with **Vue.js, TypeScript, and Inertia.js** on the frontend
 - 🏗️ I design architectures with **Repository/Service patterns** and **multi-tenant** support
 - ☁️ Experienced with **AWS S3**, **MySQL**, and cloud deployments
+- 🤖 I integrate **OpenAI API** for AI-powered features like meal planning and content generation
 - 🇪🇸🇬🇧🇵🇹 Languages: Spanish (Native) · English (Fluent) · Portuguese (Fluent)
 
 ---
@@ -73,10 +74,15 @@ I'm a **Backend-focused developer** with over **5 years of experience** building
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
 </div>
 
-### ☁️ Cloud & Tools
+### ☁️ Cloud & DevOps
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+</div>
+
+### 🤖 AI & Integrations
+<div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="OpenAI" width="40" height="40"/>
 </div>
 
 ---
@@ -87,7 +93,7 @@ I'm a **Backend-focused developer** with over **5 years of experience** building
 - **Live in production** with **1,000+ active users**
 - **Multi-tenant** architecture with role-based access (Admin, Staff, Student)
 - Features: QR attendance, workout routines, AI meal plans (OpenAI), finance dashboards, subscriptions with auto-reminders
-- **Tech Stack:** Laravel 11 · Vue 3 · TypeScript · Inertia.js · Pinia · MySQL · AWS S3 · OpenAI API · Capacitor
+- **Tech Stack:** Laravel 11 · Vue 3 · TypeScript · Inertia.js · Pinia · MySQL · AWS S3 · OpenAI API · Capacitor · Chart.js
 - **i18n support:** Spanish & Portuguese
 
 ---
