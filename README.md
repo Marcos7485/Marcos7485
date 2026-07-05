@@ -27,7 +27,7 @@ I'm a **Full-Stack Developer** with a **strong focus on Backend** and over **5 y
 - 🏗️ I design architectures with **Repository/Service patterns**, **multi-tenant** support, and scalable systems
 - ☁️ Experienced with **AWS S3**, **MySQL**, **PostgreSQL**, and cloud deployments
 - 🤖 I integrate **OpenAI API** for AI-powered features like meal planning and content generation
-- 🇪🇸🇬🇧🇵🇹 Languages: Spanish (Native) · English (Fluent) · Portuguese (Fluent)
+- 🇪🇸🇬🇧🇵🇹 Languages: Spanish (Native) · English (advanced) · Portuguese (Fluent)
 
 > *"I'm a Backend engineer at heart, but I can hold my own on the Frontend — and that makes me a better developer and a better teammate."*
 
