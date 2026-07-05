@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcos Gonzalez</h1>
-<h3 align="center">Backend-Focused Developer | PHP · Laravel · Vue.js · TypeScript</h3>
+<h3 align="center">Full-Stack Developer | Backend-Focused · PHP · Laravel · Vue.js · TypeScript</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/marcos-gonzalez-72ba84257/" target="_blank">
@@ -19,15 +19,17 @@
 
 ## 🚀 About Me
 
-I'm a **Backend-focused developer** with over **5 years of experience** building web applications, from small freelance projects to large-scale SaaS platforms.
+I'm a **Full-Stack Developer** with a **strong focus on Backend** and over **5 years of experience** building web applications, from small freelance projects to large-scale SaaS platforms.
 
 - 🔭 I'm currently working on **IQAthletic** — a gym management SaaS platform with **1,000+ active users**
-- 🌱 I specialize in **PHP, Laravel, SQL, and REST APIs**
-- 👨‍💻 I also work with **Vue.js, TypeScript, and Inertia.js** on the frontend
-- 🏗️ I design architectures with **Repository/Service patterns** and **multi-tenant** support
-- ☁️ Experienced with **AWS S3**, **MySQL**, and cloud deployments
+- 🎯 My **core specialization** is **Backend**: PHP, Laravel, SQL, REST APIs, and system architecture
+- 👨‍💻 I also work with **Vue.js, TypeScript, and Inertia.js** on the Frontend — which gives me a **holistic product vision**
+- 🏗️ I design architectures with **Repository/Service patterns**, **multi-tenant** support, and scalable systems
+- ☁️ Experienced with **AWS S3**, **MySQL**, **PostgreSQL**, and cloud deployments
 - 🤖 I integrate **OpenAI API** for AI-powered features like meal planning and content generation
 - 🇪🇸🇬🇧🇵🇹 Languages: Spanish (Native) · English (Fluent) · Portuguese (Fluent)
+
+> *"I'm a Backend engineer at heart, but I can hold my own on the Frontend — and that makes me a better developer and a better teammate."*
 
 ---
 
@@ -68,10 +70,11 @@ I'm a **Backend-focused developer** with over **5 years of experience** building
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </div>
 
-### 🔧 Version Control
+### 🔧 Version Control & Tools
 <div>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="GitLab" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="40" height="40"/>
 </div>
 
 ### ☁️ Cloud & DevOps
@@ -83,6 +86,12 @@ I'm a **Backend-focused developer** with over **5 years of experience** building
 ### 🤖 AI & Integrations
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="OpenAI" width="40" height="40"/>
+</div>
+
+### 📊 Other Tools
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/composer/composer-original.svg" alt="Composer" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
 </div>
 
 ---
