@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcos Gonzalez</h1>
-<h3 align="center">Full-Stack Developer | Backend-Focused · PHP · Laravel · Vue.js · TypeScript</h3>
+<h3 align="center">AI BACKEND ENGINEER | SHIPS AI INTEGRATIONS</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/marcos-gonzalez-72ba84257/" target="_blank">
